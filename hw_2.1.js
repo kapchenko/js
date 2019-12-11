@@ -1,5 +1,5 @@
 studentSchedule =  {
-    neme : "test"
+    name : "test"
 };
 
 function isEmpty(obj) {
